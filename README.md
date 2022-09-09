@@ -1,4 +1,4 @@
-### Olá! eu sou o Hélio Soares ✌
+### Olá! Eu sou o Hélio Soares ✌
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/heliosoares.dev/)
